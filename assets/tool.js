@@ -44,6 +44,7 @@
     }, 1200);
   }
   function copy(text, btn) {
+    if (typeof window.gtag === "function") window.gtag("event", "tool_use", { action: "copy" });
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(text).then(function () { flash(btn); }, function () { fallback(text, btn); });
     } else {
