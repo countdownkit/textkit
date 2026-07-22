@@ -1,0 +1,136 @@
+{
+  "pages": [
+    {
+      "slug": "fancy-text-generator",
+      "emph": null,
+      "group": "flagship",
+      "emoji": "✨",
+      "title": "Fancy Text Generator — Copy & Paste Cool Fonts",
+      "desc": "Turn plain words into fancy fonts — bold, italic, cursive, bubble, upside-down and more. Type once, copy any style, and paste it on Instagram, TikTok, Discord, or your bio. Free, no signup.",
+      "h1": "Fancy Text Generator",
+      "intro": "Type anything below and it instantly appears in dozens of Unicode font styles. These aren't images or installed fonts — they're real characters, so you can copy a line and paste it straight into your Instagram bio, a TikTok caption, a Discord name, or a tweet.",
+      "note": "Heads-up: because these are special Unicode characters, a few of them show up as plain boxes (▯) on some phones, apps, or older browsers. If a style looks broken where you paste it, pick another one — bold, italic, and wide work almost everywhere."
+    },
+    {
+      "slug": "cursive-text",
+      "emph": "script",
+      "group": "Styles",
+      "emoji": "✍️",
+      "title": "Cursive Text Generator — Copy & Paste Script Font",
+      "desc": "Make cursive text you can copy and paste. Type your words and get a flowing script font for Instagram, bios, and messages. Free, instant, nothing to download.",
+      "h1": "Cursive Text Generator",
+      "intro": "Type your text and watch it turn into flowing cursive script (𝓵𝓲𝓴𝓮 𝓽𝓱𝓲𝓼). It's real copy-paste text, not a picture, so it works in bios, captions, and usernames. Every other style is shown below it too.",
+      "note": "Cursive uses Unicode math-script characters. Most modern phones render it cleanly, but a few older apps show empty boxes — if that happens where you paste, try Bold or Italic instead."
+    },
+    {
+      "slug": "bold-text",
+      "emph": "bold",
+      "group": "Styles",
+      "emoji": "🅱️",
+      "title": "Bold Text Generator — Copy & Paste Bold Font",
+      "desc": "Generate bold text that copies and pastes anywhere — Instagram, Facebook, Twitter/X, Discord. Real Unicode bold characters, no image, no download. Free and instant.",
+      "h1": "Bold Text Generator",
+      "intro": "Type your text to get 𝐛𝐨𝐥𝐝 characters you can copy and paste into posts, bios, and comments to make a line stand out. Bold is one of the most widely supported styles, so it renders on almost every app and device.",
+      "note": "This is Unicode bold, not the app's own bold button — handy in places that don't offer formatting, like bios and captions. A handful of apps that strip fancy characters may show plain letters instead."
+    },
+    {
+      "slug": "italic-text",
+      "emph": "italic",
+      "group": "Styles",
+      "emoji": "✒️",
+      "title": "Italic Text Generator — Copy & Paste Italic Font",
+      "desc": "Create italic text you can copy and paste into Instagram, Discord, and more. Real Unicode italic and bold-italic characters. Free, instant, no signup.",
+      "h1": "Italic Text Generator",
+      "intro": "Turn your words into 𝑖𝑡𝑎𝑙𝑖𝑐 characters you can copy and paste where the app has no italic button. Bold-italic is right below it if you want extra emphasis.",
+      "note": "Italic uses Unicode math characters, so digits usually stay upright and a couple of apps may show boxes. If a spot doesn't support it, Bold is the most reliable fallback."
+    },
+    {
+      "slug": "bubble-text",
+      "emph": "bubble",
+      "group": "Styles",
+      "emoji": "🫧",
+      "title": "Bubble Text Generator — Circled Letters to Copy & Paste",
+      "desc": "Make bubble text with circled letters (Ⓐⓑⓒ) you can copy and paste. Outline and filled bubble styles for usernames, bios, and posts. Free and instant.",
+      "h1": "Bubble Text Generator",
+      "intro": "Wrap every letter in a circle — outline bubbles (ⓑⓤⓑⓑⓛⓔ) and solid filled bubbles are both shown below. Type once and copy whichever fits your vibe.",
+      "note": "Filled bubbles only exist for capital letters in Unicode, so that row uses capitals throughout. Some older apps render circled letters as boxes — the outline style is the more compatible of the two."
+    },
+    {
+      "slug": "small-text",
+      "emph": "smallcaps",
+      "group": "Styles",
+      "emoji": "🔎",
+      "title": "Small Text Generator — Tiny Caps & Superscript to Copy",
+      "desc": "Generate small text — small caps (ᴛɪɴʏ) and tiny superscript letters — that you can copy and paste. Great for aesthetic bios and captions. Free, instant.",
+      "h1": "Small Text Generator",
+      "intro": "Shrink your words into ꜱᴍᴀʟʟ ᴄᴀᴘꜱ or even tinier ˢᵘᵖᵉʳˢᶜʳᶦᵖᵗ letters — both are real copy-paste characters, popular for aesthetic bios and captions. The superscript and subscript rows are just below the small-caps one.",
+      "note": "A few letters (like small-caps X and superscript Q) have no dedicated Unicode glyph, so they fall back to the normal character. Some apps also show these as boxes."
+    },
+    {
+      "slug": "wide-text",
+      "emph": "fullwidth",
+      "group": "Styles",
+      "emoji": "↔️",
+      "title": "Wide Text Generator — Full-Width (Vaporwave) Font to Copy",
+      "desc": "Make wide text with full-width characters (Ｗｉｄｅ) you can copy and paste. The classic vaporwave / aesthetic spacing look. Free, instant, no download.",
+      "h1": "Wide Text Generator",
+      "intro": "Stretch your text into ｆｕｌｌ－ｗｉｄｔｈ characters for that spaced-out vaporwave look. There's also a simple 'spaced out' row below that just inserts gaps between letters.",
+      "note": "Full-width characters come from the CJK typography range and are very widely supported. On narrow screens the extra width may wrap to the next line — that's expected."
+    },
+    {
+      "slug": "strikethrough-text",
+      "emph": "strikethrough",
+      "group": "Effects",
+      "emoji": "🚫",
+      "title": "Strikethrough Text Generator — Cross-Out Text to Copy & Paste",
+      "desc": "Add a line through your text (s̶t̶r̶i̶k̶e̶) and copy-paste it anywhere — Discord, Instagram, messages. Uses Unicode combining marks. Free and instant.",
+      "h1": "Strikethrough Text Generator",
+      "intro": "Draw a line straight through your words (l̶i̶k̶e̶ ̶t̶h̶i̶s̶) so you can 'cross out' text in places with no formatting button. An underline version is shown below it.",
+      "note": "This works by adding a combining stroke to each character. It renders in most modern apps, but a rare few (or plain-text fields) may drop the line or show odd spacing."
+    },
+    {
+      "slug": "underline-text",
+      "emph": "underline",
+      "group": "Effects",
+      "emoji": "📏",
+      "title": "Underline Text Generator — Underlined Text to Copy & Paste",
+      "desc": "Underline your text (u̲n̲d̲e̲r̲l̲i̲n̲e̲) and copy-paste it into apps with no formatting. Uses Unicode combining marks. Free, instant, no signup.",
+      "h1": "Underline Text Generator",
+      "intro": "Put a line under every character (l̲i̲k̲e̲ ̲t̲h̲i̲s̲) to underline text where the app gives you no button for it. The strikethrough version sits right below.",
+      "note": "The underline is a combining mark added to each character. Most apps show it fine; a few plain-text spots may strip it. Copy the whole line to keep the effect intact."
+    },
+    {
+      "slug": "upside-down-text",
+      "emph": "upsidedown",
+      "group": "Effects",
+      "emoji": "🙃",
+      "title": "Upside Down Text Generator — Flip Your Text to Copy & Paste",
+      "desc": "Flip text upside down (uʍop ǝpısdn) and copy-paste it into bios, posts, and messages for a fun effect. Free, instant, nothing to install.",
+      "h1": "Upside Down Text Generator",
+      "intro": "Flip your words so they read upside-down (ʇxǝʇ ʎɯ ǝʞᴉl) — the letters are swapped for look-alikes and the whole line is reversed so it reads correctly when rotated. Copy and paste it anywhere.",
+      "note": "A few characters have no flipped look-alike and stay as-is. Some fonts render the substitute glyphs slightly differently, but the upside-down effect comes through in most apps."
+    },
+    {
+      "slug": "mirror-text",
+      "emph": "reverse",
+      "group": "Effects",
+      "emoji": "🪞",
+      "title": "Mirror / Reverse Text Generator — Backwards Text to Copy",
+      "desc": "Reverse your text so it reads backwards (txet rorrim) and copy-paste it anywhere. Simple, instant character reversal. Free, no signup.",
+      "h1": "Mirror & Reverse Text Generator",
+      "intro": "Flip your text back-to-front so it reads in reverse (siht ekil). This simply reverses the character order — great for puzzles, usernames, or a quick backwards message. Copy and paste the result anywhere.",
+      "note": "This reverses the order of characters; it doesn't create true mirrored letter shapes (those don't exist for most letters in Unicode). Every character stays fully readable."
+    },
+    {
+      "slug": "case-converter",
+      "emph": "upper",
+      "group": "Case",
+      "emoji": "🔤",
+      "title": "Case Converter — UPPERCASE, lowercase, Title & Sentence Case",
+      "desc": "Convert text between UPPERCASE, lowercase, Title Case, Sentence case, and aLtErNaTiNg caps. Copy the result with one click. Free and instant, no signup.",
+      "h1": "Case Converter",
+      "intro": "Paste or type your text to switch it between UPPERCASE, lowercase, Title Case, Sentence case, and mocking aLtErNaTiNg caps — then copy the version you need. The fancy Unicode styles are shown below the case options.",
+      "note": "Case conversion produces plain, ordinary text that pastes cleanly everywhere — no special characters, no compatibility worries."
+    }
+  ]
+}
