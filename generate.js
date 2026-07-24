@@ -60,7 +60,7 @@ function layout({ title, desc, urlPath, h1, body }) {
 </main>
 <footer class="site-foot"><div class="wrap">
   <a href="${BASE}/">Home</a><a href="${BASE}/#styles">Text styles</a><a href="${BASE}/#effects">Text effects</a><a href="${BASE}/#case">Case converter</a>
-  <span>· ${SITE} — free fancy text and font styles you can copy and paste anywhere. Part of <a href="https://elevatedprogress.com/">Elevated Progress</a>.</span>
+  <span>· ${SITE} — free fancy text and font styles you can copy and paste anywhere. Part of <a href="https://elevatedprogress.com/">Elevated Progress</a>. · <a href="https://elevatedprogress.com/privacy/">Privacy Policy</a></span>
 </div></footer>
 <script src="${BASE}/fonts.js"></script>
 <script src="${BASE}/tool.js" defer></script>
